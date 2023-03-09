@@ -1,0 +1,59 @@
+#3.
+wrdth =int((input(' \n')));
+height = int((input(' \n')));
+
+print(wrdth * height)
+
+#4. 
+var1 = int(input('Please enter a number\n' ))
+var2 = int(input('Please enter a number\n' ))
+var3 = int(input('Please enter a number\n' ))
+
+sum = var1 + var2 + var3
+
+print('The sum is: ', sum)
+
+#5.
+import random;
+
+dice1 = (random.randint(1,6))
+dice2 = (random.randint(1,6))
+
+defult = dice1 + dice2
+
+print(defult)
+
+#6
+print(int(input('enter a number\n' )))
+
+#7
+x = 3
+print('area =', x*x)
+
+#8
+
+male = int(input(' ' ))
+female = int(input(' ' ))
+defult = 20
+
+print('the amount of male is',  male/defult )
+print('the amount of male is', female/defult )
+
+#9
+#whenPaid
+JoePaid = 2000
+sharePrize = 40
+totalP_commis = JoePaid * sharePrize
+
+commisPaidPur = totalP_commis* 0.03
+
+print('Joe purchased', JoePaid, ' share at $', sharePrize, 'per share. Costing a total of ', JoePaid/commisPaidPur)
+#2 week--> 
+print('\n')
+shareSold = 2000
+sharePrizeSale = 42.75
+
+
+
+
+
